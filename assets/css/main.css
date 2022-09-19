@@ -3353,6 +3353,10 @@ input, select, textarea {
 				padding: 3em;
 			}
 
+			#wrapper.index-body {
+				padding: 150px 50px;
+			}
+
 		}
 
 		@media screen and (max-width: 1280px) {
