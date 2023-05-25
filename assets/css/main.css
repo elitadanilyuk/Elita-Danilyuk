@@ -2675,6 +2675,30 @@ input, select, textarea {
 		grid-column-start: 1;
 	}
 
+	.project-card-3 {
+		display: inline-grid;
+		grid-row-start: 2;
+		grid-column-start: 1;
+	}
+
+	.project-card-4 {
+		display: inline-grid;
+		grid-row-start: 2;
+		grid-column-start: 2;
+	}
+
+	.project-card-5 {
+		display: inline-grid;
+		grid-row-start: 3;
+		grid-column-start: 1;
+	}
+
+	.project-card-6 {
+		display: inline-grid;
+		grid-row-start: 3;
+		grid-column-start: 2;
+	}
+
 
 /* Post */
 
